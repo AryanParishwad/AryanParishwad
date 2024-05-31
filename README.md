@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on web development technologies.
+- 🌱 I’m currently learning Artificial Intelligence.
+- 👯 I’m looking to collaborate on projects relevent to my tech stack.
+- 📫 How to reach me: https://www.linkedin.com/in/aryan-parishwad-470136231/
+
+
 <!--
 **AryanParishwad/AryanParishwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
