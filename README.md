@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a passionate web developer specializing in PHP, MySQL, HTML, CSS, and JavaScript. I enjoy building scalable and efficient web solutions, particularly using WordPress. 
+I'm Aryan Parishwad, a passionate web developer specializing in PHP, MySQL, HTML, CSS, and JavaScript. I enjoy building scalable and efficient web solutions, particularly using WordPress. 
 
 ## 🔧 Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
