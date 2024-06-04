@@ -10,9 +10,9 @@ I'm Aryan Parishwad, a passionate web developer specializing in PHP, MySQL, HTML
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanParishwad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanParishwad&layout=compact&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanParishwad&theme=radical)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-parishwad-470136231)
